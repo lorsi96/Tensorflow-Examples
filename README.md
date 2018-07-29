@@ -1,2 +1,2 @@
 # Tensorflow-Examples
-Justa repository where I upload some tests or examples in Tensorflow
+Just a repository where I upload some tests or examples in Tensorflow
